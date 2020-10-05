@@ -15,7 +15,7 @@ Only a small hello-world example ist provided. An example for articulated human 
 > - building alle containers will take some time
 ## Hello World Example
 Start the docker container using
-> - /JOMS/scripts/train_docker.sh
+> - ./JOMS/scripts/train_docker.sh
 
 In the docker container, run:
 
