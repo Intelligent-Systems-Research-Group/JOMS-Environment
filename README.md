@@ -29,4 +29,4 @@ After training, exit the container
 
 > - exit
 
-The output is located in /output
+The output is located in output/
