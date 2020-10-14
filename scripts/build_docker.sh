@@ -1,3 +1,5 @@
+docker pull hamzamerzic/meshlab
+docker pull nytimes/blender:2.82-gpu-ubuntu18.04
 docker build -t joms/opensubdiv:latest --compress opensubdiv
 docker build -t joms/cxxopts:latest --compress cxxopts
 docker build -t joms/embree:latest --compress embree
