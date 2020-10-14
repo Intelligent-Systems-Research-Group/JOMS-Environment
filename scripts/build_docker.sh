@@ -6,5 +6,5 @@ docker build -t joms/terra:latest --compress terra
 docker build -t joms/nanoflann:latest --compress nanoflann
 docker build -t joms/json:latest --compress json
 docker build -t joms/optlang:latest --compress Optlang
+docker build -t joms/openpose:latest --compress openpose
 docker build -t joms/trainer:latest --compress human-model-trainer
-#docker build -t joms/openpose:latest --compress openpose/openpose-docker/
