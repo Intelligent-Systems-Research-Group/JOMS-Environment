@@ -1,5 +1,4 @@
 git clone https://github.com/Intelligent-Systems-Research-Group/JOMS
-git clone https://github.com/llvm/llvm-project clang/llvm-project
 git clone https://github.com/Intelligent-Systems-Research-Group/fbx
 git clone https://github.com/Intelligent-Systems-Research-Group/opensubdiv
 git clone https://github.com/Intelligent-Systems-Research-Group/json
