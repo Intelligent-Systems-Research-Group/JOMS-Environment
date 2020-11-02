@@ -1,0 +1,1 @@
+docker run --rm -it -v /media/dl/Data/hyperdocker/hyperdocker/old_dataset/scans/:/scans -v /media/dl/Data/hyperdocker/hyperdocker/preprocessing:/root/scripts -v /media/dl/Data/hyperdocker/hyperdocker/dataset/poisson:/output hamzamerzic/meshlab /root/scripts/run.sh
