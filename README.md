@@ -12,7 +12,7 @@ Only a small hello-world example ist provided. An example for articulated human 
 > - ./scripts/download_dependencies.sh
 > - download fbx20181_1_fbxsdk_linux and untar the folder into fbx/
 > - ./scripts/build_docker.sh
-> - building alle containers will take some time
+> - building all containers will take some time
 ## Hello World Example
 Start the docker container using
 > - ./JOMS/scripts/train_docker.sh
