@@ -1,5 +1,5 @@
 # JOMS-Environment
-Docker Runtime for the paper "Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans".
+Docker Runtime for the paper [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans]{http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf}.
 
 A small hello-world example with documentation is provided. A more realistic example for articulated human 3D shape model training is also provided. The documentation for human shape model training well be added in the coming weeks.
 
