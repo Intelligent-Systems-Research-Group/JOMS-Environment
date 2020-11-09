@@ -48,4 +48,4 @@ Bibtex:
 JOMS-Environment - excluding the provided models in the weights/ directory - is licensed under the terms of the MIT License.
 The trained models located in the weights/ directory are available for free non-commercial use under a different [license](weights/Model_License.pdf). For commercial queries, contact isrg@hs-karlsruhe.de.
 
-To use the docker containers, please check all licenses of the third party libraries used to build the docker containers. In particular, check the license of the project https://github.com/Intelligent-Systems-Research-Group/JOMS.
+To use the docker containers, please check all licenses of the third party libraries and datasets used to build and run the docker containers. In particular, check the license of the project https://github.com/Intelligent-Systems-Research-Group/JOMS.
