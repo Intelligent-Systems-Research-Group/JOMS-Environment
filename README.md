@@ -30,3 +30,17 @@ After training, exit the container
 > - exit
 
 The output is located in output/
+
+## Citation
+Please cite these papers in your publications if it helps your research.
+
+Bibtex:
+```
+@inproceedings{JOMS,
+  title={Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans},
+  author={Zeitvogel, Samuel and Dornheim, Johannes and Laubenheimer, Astrid},
+  booktitle={European Conference on Computer Vision},
+  year={2020}
+}
+```
+
